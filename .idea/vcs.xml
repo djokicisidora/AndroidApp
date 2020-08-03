@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AndroidTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tools/Git/MyFolder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-radness" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-first-repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-first-repo/coderA/merge-conflicts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-first-repo/coderB/merge-conflicts" vcs="Git" />
+  </component>
+</project>
